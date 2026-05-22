@@ -187,3 +187,54 @@ The community doesn't organize around this but doesn't reject it either. The cle
 ---
 
 *Synthesized from: 36 downloaded TikTok videos. All videos frame-extracted and visually analyzed.*
+
+---
+
+## PERFORMANCE DATA — All 36 Videos
+
+### The honest truth about what performs
+
+The cleanboy core dramatically underperforms the emotional/cathartic content:
+
+| Creator | Views | Like Rate | Type |
+|---|---|---|---|
+| @visualidentitystrong | 3,800,000 | 19.9% | Solitude reframe quote |
+| @maniaaauser | 1,500,000 | 25.6% | Caravaggio-lit fashion, 2 cuts |
+| @3nocten | 829,200 | 23.2% | CMBYN queer longing, 60s |
+| @elevationovation | 814,700 | 22.6% | Hopecore, sitting in darkness |
+| @gorptext | 651,400 | 15.4% | Cinephile cathartic |
+| @macke.v3 (best) | 232,700 | 15.0% | Cathartic synth edit |
+| @macke.v3 (typical) | 2,000–5,000 | 8–11% | Cleanboy core |
+| @vrillence | 4,006 | 12.2% | Breker/Nietzsche |
+| @secretyoullneverknowuh | 4,694 | 21.1% | #cleanboy manifesto |
+| @thedressboy | 3,238 | 20.0% | YSL noir era |
+
+### Highest like rates (emotional resonance, not aesthetic admiration)
+1. @user.264839 — **26.9%** — chronic illness mother content
+2. @juliancoolians — **26.8%** — diary, golden hour, melancholic wonder
+3. @maniaaauser — **25.6%** — static fashion portraits, DnB
+4. @rythmikco — **25.2%** — 62 cuts in 8 seconds
+5. @elevationovation — **22.6%** — hopecore
+
+### What the data says
+The most aesthetically pure cleanboy content (macke.v3, vrillence, secretyoullneverknowuh) has the smallest reach. The community is not trying to grow — and it isn't growing.
+
+The content that performs is emotionally accessible: solitude as peace, grief that lifts, queer longing, diary vulnerability. Same aesthetic register, slightly more human.
+
+### @kanetheicon — the zero-cut signal
+"beep beep" — 156K views, 19.5% like rate, 137 comments on 156K views.
+Zero cuts. Zero editing. Dashboard POV night drive, 15 seconds, lo-fi vaporwave.
+The comment-to-view ratio is high — people need to respond to this. They recognize themselves in it.
+**What this means:** in a community of highly crafted edits, the most authentic thing — someone just driving alone at night and recording it — performs as well as careful construction. The feeling is the point. Craft is one path to the feeling. Authenticity is another.
+
+### @dent_13 — BPM: 0
+No music. Pure ambient drone, field recording, silence. 24% like rate. 79K views.
+Silence works. The community can sit with nothing.
+
+### Cluster distribution
+- Contemplative: 18/36 (50%)
+- Cathartic: 11/36 (31%)
+- Aspirational: 7/36 (19%)
+
+Cathartic content = highest average views. Contemplative = most consistent mid-tier. Aspirational = lowest.
+

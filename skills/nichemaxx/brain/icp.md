@@ -1,200 +1,168 @@
-# IDEAL CREATOR PROFILE (ICP)
+# THE PERSON — Full Portrait
+### Who saved these 36 videos. Who the nichemaxx skill is for.
 
 ---
 
 ## DEMOGRAPHICS
 
-**Age:** 16–22 (core: 17)
-**Location:** Europe-coded (French, Belgian, Dutch dominant) + some LA adjacency (Chrome Hearts cluster)
-**Gender:** Male, majority — significant queer coding
-**Class Signal:** Aspiring upper-middle. Not actually rich — deeply fluent in the visual language of wealth. There's a difference.
-**Device:** iPhone, probably older model. Edits in CapCut or occasionally After Effects.
-**Cultural Coding:** European-specific references, not North American mainstream
+**Age:** 17. Not 16-22 — 17 specifically.
+**Gender:** Male.
+**Location:** European-coded. French, Belgian, Dutch dominant. Not American.
+**Class:** Aspiring upper-middle. Not actually rich. Deeply fluent in the visual language of wealth — there is a difference, and he knows it.
+**Device:** iPhone, older model. Edits in CapCut. Occasionally After Effects (@dupeoctobr is his ceiling, not his floor).
+**Platform behavior:** Consumer far more than creator. Saves constantly. The saved folder is a self-portrait.
 
 ---
 
-## THE CLEANBOY IDENTITY — CORE SIGNALS
+## SEXUALITY
 
-The cleanboy is not a style. It's a constellation of signals that together add up to a worldview. These are the specific objects, references, and behaviors that mark membership:
+Gay or bisexual. Probably not fully out. Possibly not fully decided.
 
-**Physical Signals:**
-- Lean physique (not gym-heavy, but disciplined)
-- Supreme waistband visible above low-rise trousers
-- Parisian apartment OR Scandinavian bedroom (domestic aesthetic matters)
-- Matcha (not coffee, not social drinking — quietness as identity marker)
-- Meditation practice (inner work valued over external display)
+The evidence from what he saved:
+- @3nocten CMBYN edit — 829K views, he saved it. Call Me By Your Name is explicitly about queer male desire in an Italian summer. You don't save this because it's aesthetically interesting. You save it because something in it is yours.
+- @jakewarden — faux fur, baroque jewelry, painted nails. "Femboy-chella." He saved this.
+- The androgynous fashion axis throughout his saves: @maniaaauser, @thedressboy, @luxmodels_ men's runway
+- The Breker/Riefenstahl content (@vrillence) coexisting with the queer longing content — this is the specific tension of a young man who hasn't resolved what the idealized male body means to him yet. Is it aspiration or desire? He doesn't know.
 
-**Reference Signals:**
-- Knows who Alain Delon is without being told to care
-- Watches Melville films, not Netflix
-- Has Nettspend ("Still Standing") in rotation — understands nu-jerk, the specific anxiety of being young and watched
-- Knows the Lynch grave reference in fakemink's "night, blooming jasmine" (if you recognize that, you're in; if you don't, you stay out)
-- Can name-drop Mark Rothko, David Lynch, James Bond (Craig era), CMBYN
+He is not performing queerness. He is circling something he hasn't named.
 
-**Music Consumption:**
-- Nettspend — the emotional register of being unsure who you are yet
-- fakemink — cloud rap meets deep house, dirty luxury, archival sourcing
-- America — "A Horse With No Name" — purposeless beauty, suspended time
-- Sufjan Stevens (CMBYN score) — slow, literary, aching
-- Bond theme instrumentals — lifestyle reference, not action soundtrack
-- Silence with ambient room noise — willing to listen to nothing
+---
 
-**Fashion & Objects:**
-- Chrome Hearts / Kristian Stark (LA streetwear upper tier)
-- YSL, Tom Ford fragrance (if money is present)
-- Faux fur, baroque jewelry, painted nails (androgynous edge)
-- Supreme, CDG, Hedi Slimane slim silhouettes (archive-coded)
-- One object that is genuinely old (a camera, a coat, a watch)
+## WHAT HE SAVED — AND WHAT IT MEANS
 
-**Behavioral Markers:**
-- Doesn't post about his life; posts about his *mind*
-- Every video is a signal of what he knows, not what he does
-- Dresses for himself the way a cathedral is built for God — the audience is secondary
-- Watches accounts like @macke.v3 (PREBEN.) obsessively
-- Uses #targetaudience ironically — the audience *is* him
+He saved 36 videos. Reading them as a self-portrait:
 
-**What He Refuses:**
-- Netflix (no broad appeal content)
-- Explanations (if you don't get the reference, that's the point)
-- Fast cuts, energy, easy moods
-- Text on screen (except when it's wrong)
-- Fresh production (everything must look found, archival, suspended in time)
+**He saved the CMBYN edit.** Queer Italian summer longing. This is not aesthetic curiosity.
+
+**He saved @kanetheicon "beep beep."** A 15-second night drive. Zero cuts. Zero editing. Just a dashboard and a city passing by at 2am with lo-fi vaporwave playing. 156K views, 137 comments — people feel compelled to respond to it. He saved it. What this means: he values the authentic experience of solitude over its aesthetic construction. He knows what it feels like to drive alone at night and want nothing to change. The content IS the feeling. He saved it because he recognized himself.
+
+**He saved @user.264839's chronic illness content.** A mother's meditation on caring for her sick child — the highest like rate of all 36 videos (26.9%). This is not his demographic. He is not a mother. He is not a caregiver. He saved it anyway. This means he has genuine emotional range — he can be moved by something completely outside his experience. He is not a closed system.
+
+**He saved @visualidentitystrong's solitude reframe.** 3.8M views: "that quiet reframe at 2am when you realize solitude isn't loneliness — it's peace." This is the most viewed video he saved. He relates to the content deeply enough to save the most relatable version of it that exists on TikTok.
+
+**He saved @vrillence.** Breker. Riefenstahl. Nietzsche. #willezurmacht. He knows what this is. The fact that he saved it alongside CMBYN is the most interesting thing about him.
+
+**He saved @dent_13 — BPM: 0.** No music. Pure silence and grey skies. He can sit with nothing.
+
+**He saved @elevationovation hopecore.** "Sitting in the dark until the sun breaks through." He has been in the dark.
+
+**He saved @dupeoctobr's Shining composition.** The technical ceiling of this community — actual After Effects, Kubrick footage, dread-mood loop. He respects craft at its highest.
+
+---
+
+## THE CENTRAL TENSION
+
+He saved @vrillence (idealized Aryan male body, Breker, Riefenstahl) AND @3nocten (queer Italian summer longing, CMBYN).
+
+These are not contradictory saves if you are a young man who hasn't decided what the male body means to him. Both are about beautiful male form. One codes it as power and discipline. One codes it as desire and longing. He saved both because both are true to something inside him — and the fact that they contradict each other is the point. He hasn't resolved this. He is 17.
+
+---
 
 ## WHAT HE FEARS
 
-- Being basic
-- Being try-hard
-- Being too online (he is very online)
-- Being legible to everyone — the worst outcome is content that anyone can understand
-
-## VULNERABILITY LAYER (new — from full 36 video analysis)
-
-The cleanboy aesthetic coexists with a personal/emotional cluster that didn't surface in the first 7 videos. These creators sit inside the same community:
-- Chronic illness content: *"i crave normal things with an intensity healthy people will never understand"*
-- Diary energy: autumn, gentle reflection, "the older i'm getting the more in love i am"
-- Introversion essays: selfie + periwinkle text, confessional framing
-
-Vulnerability is permitted here IF it's aesthetically framed. Raw confession without aesthetic control reads as content, not art. The form has to hold the feeling.
+- Being basic. The worst possible outcome.
+- Being try-hard. Almost as bad.
+- Being too online. (He is extremely online. The fear is about being *seen* as online.)
+- Being legible to everyone. The content he admires is only accessible to people who already know.
+- Being asked to explain himself.
 
 ---
 
-## WHAT THEY CONSUME
+## THE CLEANBOY IDENTITY
 
-### Films & Visual References
-- Jean-Pierre Melville (slow cuts, film stills, French masculinity as ideal)
-- David Lynch (corridor aesthetics, sodium-lamp wrongness, the cozy thing that has been poisoned)
-- Call Me By Your Name (restraint, literary pacing, queer longing handled carefully)
-- James Bond, Craig era (Casino Royale, Skyfall — beautiful damage, wet linen, navy polo, midnight Tom Ford tuxedo)
-- Leni Riefenstahl's *Olympia* (controversial, but referenced in community)
-- Runway backstage footage (DIY-but-deliberate, archival)
+This is not a style. It is a worldview expressed through signals.
 
-### Music (Specific Tracks & Artists)
-- Nettspend — "Still Standing" / *Early Life Crisis* (nu-jerk, distorted 808s, pitched-up vocals, staggered snares)
-- fakemink — "night, blooming jasmine" (Cloud rap + deep house, title quotes David Lynch's gravestone)
-- America — "A Horse With No Name" (1971) (purposeless beauty, suspended, warm, going nowhere)
-- Sufjan Stevens — CMBYN score (slow, literary, aching)
-- Bond theme instrumentals
-- Cigarettes After Sex (androgynous, moody)
-- Boy Harsher (dark, texture-rich)
-- Ethel Cain (literary, androgynous emotional register)
-- Øneheart (moody, European-coded)
-- Pino D'Angiò, Lucio Battisti, Françoise Hardy (vintage Italian/French)
+**Physical signals:**
+- Lean. Not gym-heavy. Disciplined without display.
+- Supreme waistband visible above low-rise trousers.
+- Parisian apartment or Scandinavian bedroom — domestic aesthetic is load-bearing.
+- Matcha, not coffee. Quietness as identity marker.
+- One piece of jewelry: either baroque (cross, ring) or nothing.
+- Hair intentional but not styled-looking.
+- Owns one genuinely old thing — a book, a record, a coat.
 
-### Fashion & Brands
-- Supreme
-- CDG (Comme des Garçons)
-- Chrome Hearts
-- Kristian Stark
-- YSL (Yves Saint Laurent)
-- Tom Ford
-- Hedi Slimane slim silhouettes
-- Dolce & Gabbana FW2026 (runway as moodboard)
-- Archive pieces (eBay, vintage, objects with history)
+**Reference signals — the membership test:**
+- Knows who Alain Delon is without being told to care.
+- Watches Melville films. Not Netflix.
+- Has fakemink "night, blooming jasmine" saved. Knows the Lynch grave inscription the title references. If you get this, you're in. If you don't, you stay out.
+- Has Nettspend "Still Standing" in rotation. Understands nu-jerk — the specific anxiety of being young and watched and not knowing who you are yet.
+- Can name Rothko, Lynch, Tarkovsky, Melville, Craig-era Bond, CMBYN without prompting.
+- Knows #targetaudience means talking to yourself. Uses it that way.
 
-### Photography & Aesthetics
-- Sam Youkilis (@sam.youkilis) — euro summer template, ordinary over iconic
-- Wisdom Kaye (@wisdmkaye) — concept-first styling, fashion as short film
-- Matthieu Venot (@matthieuvenot) — radical cropping, abstraction inside architecture
-- LAUZZA (director) — DIY-but-deliberate chaos
-- Mark Rothko (color field as emotional language)
-- VHS backstage footage (low-fi, archival, texture)
-- Elle magazine editorial (high-fashion, niche)
-
-### What They Never Watch
-- Netflix (antithesis of niche)
-- Mainstream TikTok trends
-- Broad appeal content
-- High-energy cuts
-- Anything that requires explanation
+**Behavioral signals:**
+- Doesn't post talking videos. Makes edits.
+- Account bio is empty or a single line from a film he won't name.
+- Sources archival footage, runway clips, film stills — nothing shot fresh feels fresh.
+- Posts with minimal or no caption.
+- Letterbox everything. Always fades to black.
 
 ---
 
-## THE EMOTIONAL REGISTER
+## WHAT HE IS NOT
 
-The cleanboy experiences a **specific anxiety: being young and watched and not knowing who you are yet.**
-
-This is not general teenage angst. This is the particular feeling of:
-- Growing up on the internet but feeling like you arrived from somewhere else
-- Being in rooms you shouldn't have been in, and never being asked to leave
-- Sensing that people are watching to understand you, and you're not sure what they'll find
-- The weight of signals mattering — every reference you know marks you as in or out
-- Comfort with being out of place (this is not rebellion; rebellion still cares what it's rebelling against)
-
-The emotional tone is **suspended time** — music and images where forward motion stops and you float. No urgency. No destination. Just stillness that feels dangerous because it's so quiet.
-
-This anxiety is **not performed**. It's not depression or ennui performed for the camera. It's the genuine disorientation of being young in a world where niche knowledge is identity, and identity is everything.
+- Not trying to grow an audience. The community does not court broad reach.
+- Not American. The references are European-specific.
+- Not actually wealthy. Fluent in the language of wealth, not the reality.
+- Not performing wellness. The matcha and meditation are genuine, not content.
+- Not straightforwardly straight.
+- Not straightforwardly gay.
+- Not decided about most things. He is 17.
 
 ---
 
-## ART VS. CONTENT DISTINCTION
+## HIS RELATIONSHIP TO CRAFT vs AUTHENTICITY
 
-The @ilierk quote, spoken over VHS backstage footage, is the manifesto line for the entire community:
+He saved both extremes:
 
-> *"NO ARTIST BURNS OUT MAKING ART / THEY ONLY BURN OUT MAKING CONTENT."*
+**Craft ceiling:** @dupeoctobr — After Effects, Kubrick footage, frame-perfect composition. Technical skill as aesthetic statement.
 
-**This distinction is load-bearing for their identity.**
+**Authenticity floor:** @kanetheicon — 0 cuts, dashboard POV, just driving. No craft. The experience IS the content.
 
-They see themselves as artists. They are making art. The moment you optimize for the algorithm, the moment you ask "will people like this," you've crossed into content creation. That is where burnout lives.
-
-Art is made for the people who already know. Content is made for everyone. These creators are making art.
-
-This is why #targetaudience appears on their posts — self-referentially, ironically. The target audience *is themselves*. There is no broader audience being courted. The content is made for the people who know, by the people who know.
+He doesn't choose between them. He saved both. This means he understands that the feeling is the point — craft is one way to get there, radical simplicity is another.
 
 ---
 
-## KNOWLEDGE AS IDENTITY
+## WHAT HE IS PROCESSING
 
-Niche references are **social currency** in this community.
+Reading the emotional register of his 36 saves:
+- Solitude (×8+ videos)
+- Longing (×7+ videos)
+- Grief or loss (×5 videos)
+- Catharsis — sitting in darkness until light arrives (×4 videos)
+- Queer desire handled with restraint (×2 videos explicitly)
+- The specific anxiety of being young and watched (Nettspend)
+- The desire to be legible only to the right people
 
-- Knowing Lynch's gravestone inscription means you're in
-- Understanding nu-jerk (Nettspend) means you get young anxiety
-- Referencing Mark Rothko or Melville films means you understand color and cinema
-- Wearing Hedi Slimane slim silhouettes means you understand fashion as philosophy, not trend
-- Listening to barely-there cloud rap means you have patience for texture over energy
-
-The community is so niche it addresses itself. The hashtag #targetaudience is self-referential: they are calling themselves the target audience of their own content. There is no external validation being sought.
-
-This is the rarest thing on TikTok: **a community that isn't trying to grow.**
+He is processing: being alone, wanting something he can't name, the gap between who he is and who he's becoming, the specific age of almost-but-not-yet.
 
 ---
 
-## THE NORTH STAR: DANGEROUS CALM / SOVEREIGN INDIFFERENCE
+## VULNERABILITY LAYER
 
-(From creative_brief.md manifesto, integrated with community values)
+The emotional/personal cluster in his saves:
+- @juliancoolians: "the older i'm getting the more in love i am" — diary, autumn, 26.8% like rate
+- @visualidentitystrong: solitude reframe, 3.8M views, 19.9% like rate
+- @user.264839: mother + chronic illness, 26.9% like rate (highest of all 36)
+- @elevationovation: hopecore, sitting in darkness, 22.6% like rate
 
-Everything here is beautiful the way a warning is beautiful.
+**The rule:** Vulnerability is permitted in this community IF it is aesthetically framed. Raw confession without aesthetic control reads as content, not art. The form must hold the feeling.
 
-The single thread connecting all these references — Lynch, Bond, Delon, Melville, the underground rap, the sacred naturalist — is: **dangerous calm. Or said another way: sovereign indifference.**
+The saves above all follow this rule. The mother's content is the exception — it has no aesthetic construction. He saved it because the feeling was too strong not to.
 
-Lynch's protagonists are wrong in their world. Bond is always the outsider walking into the room. The androgynous model defies the category the room wants to put them in. Brat culture refuses polish. Underground rap refuses the mainstream. The sacred naturalist refuses speed.
+---
 
-This is not rebellion. Rebellion still cares what it's rebelling against. This is something colder and more interesting: the person who is comfortable being out of place.
+## PERFORMANCE REALITY (what he doesn't know yet)
 
-The person this aesthetic is describing:
-- They grew up on the internet but felt like they arrived from somewhere else
-- They own one object that is genuinely old
-- They dress for themselves the way a cathedral is built for God — the audience is secondary
-- They've been in rooms where they shouldn't have been, and were never asked to leave
-- They feel watched. They feel *seen by something that has not yet decided about them*
+The cleanboy core he aspires to has tiny views:
+- @macke.v3 typically 2K-5K views
+- @vrillence: 4K views
+- @secretyoullneverknowuh: 4K views
 
-That is the cleanboy. That is who consumes this aesthetic. That is who you are building for.
+The emotional/cathartic content he also saved performs massively:
+- @visualidentitystrong: 3.8M views
+- @maniaaauser: 1.5M views
+- @3nocten CMBYN: 829K views
+
+The community that isn't trying to grow... isn't growing. The content that speaks to the same feelings but is slightly more accessible — that's what reaches people.
+
+His creative edge: he can make cleanboy *plus* everything it's missing — the grit, the queer ambiguity, the authentic solitude, the emotional range. That's harder and more interesting than pure cleanboy. And it would actually perform.
