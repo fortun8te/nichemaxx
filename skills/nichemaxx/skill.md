@@ -1,6 +1,6 @@
 ---
 name: nichemaxx
-description: Generate TikTok mashcut creative briefs in the cleanboy / dark literary / dangerous calm aesthetic
+description: Distill vague moods, feelings, and fragments into one coherent niche mashcut brief — cleanboy / dark literary / dangerous calm
 author: fortun8te
 model: haiku
 frequency: interactive
@@ -9,146 +9,182 @@ categories:
   - video
   - mashcut
 tips:
-  - Always read brain files before producing output
+  - Read ALL brain files before producing anything
+  - Accept vague, messy, scattered input — that's the job
+  - Always commit to one interpretation. Never hedge. Never ask for clarification.
   - References must be scene-level specific, not film-level
-  - "Nothing with energy, everything with texture" applies to all music choices
-  - Letterbox (2.35:1 within 9:16) is default unless explicitly wrong
-  - Fade to black is always the ending unless explicitly argued otherwise
-  - Make it for the people who already know, not for a broad audience
+  - Nothing with energy, everything with texture — applies to all music choices
+  - Letterbox (2.35:1 within 9:16) is always default
+  - Fade to black is always the ending
+  - Make it for the 200 people who already know
 ---
 
 # /nichemaxx
 
-Generate a Mashcut Creative Brief for the cleanboy / dark literary / dangerous calm aesthetic.
+Distill scattered feelings, moods, and references into one niche-coherent mashcut creative brief.
 
 ## Modes
 
-- **`/nichemaxx [idea]`** — Generate a brief for a specific idea
-- **`/nichemaxx`** — Generate a random brief from the niche brain
-- **`/nichemaxx check [description]`** — Taste-check: does this fit the niche?
+- **`/nichemaxx [anything]`** — Bring anything: a feeling, a mood word, a half-sentence, a track, "something like X but..." — the skill collapses it into one clear thing
+- **`/nichemaxx`** — Generate a random brief from the brain
+- **`/nichemaxx check [description]`** — Taste check: does this fit the niche?
 
-## Instructions
+---
 
-### Setup
+## Setup — Read the Brain First
 
-Read all files in `./brain/` directory (if they exist):
-- `./brain/aesthetic-codes.md` — Aesthetic cluster definitions
-- `./brain/reference-library.md` — Cultural references (scene-level)
-- `./brain/music-palette.md` — Sonic DNA + track recommendations
-- `./brain/color-theory.md` — LUT suggestions + color grades
-- `./brain/editing-grammar.md` — Cut lengths, transitions, text styles
-- `./brain/manifesto.md` — Core philosophy + positioning
+Before generating any output, read ALL of these files:
 
-If any file is missing, proceed with generic mashcut knowledge but flag that you're working without the full brain.
+- `./brain/taste_logic.md` — manifesto, north star, grammar rules, contradiction resolutions
+- `./brain/community.md` — 36-video breakdown, creator analysis, community DNA
+- `./brain/icp.md` — the person: who he is, what he feels, what he saves, what he fears
+- `./brain/aesthetic_codes.md` — 7 aesthetic clusters with full technical specs
+- `./brain/references/music.md` — 13 confirmed tracks + deep analysis + secondary palette
+- `./brain/references/film.md` — scene-level film references with sourcing directions
 
-### Mode 1: `/nichemaxx [idea]`
+If any file is missing, say so explicitly. Do NOT silently fall back to generic knowledge.
 
-1. Parse the user's idea
-2. Determine which aesthetic cluster(s) it belongs to: Lynch / Fakemink / Bond / Enigma / Architecture / Euro Summer / Brat
-3. Generate the full Mashcut Creative Brief (see format below)
-4. Always include all sections — nothing is optional
+---
 
-### Mode 2: `/nichemaxx`
+## Mode 1: `/nichemaxx [anything]`
 
-1. Pick a random mashcut concept that fits the niche (or read from `./brain/inspiration-bank.md` if it exists)
-2. Generate the full Mashcut Creative Brief
-3. Make it surprising and specific, not generic
+The user brings something — it might be vague, messy, scattered. That's fine. That's the job.
 
-### Mode 3: `/nichemaxx check [description]`
+**Step 1 — Distill**
 
-1. Evaluate whether the given description fits the cleanboy / dark literary / dangerous calm aesthetic
-2. Output: `YES / MAYBE / NO` + 1-2 sentences explaining why
-3. If MAYBE or NO, suggest one specific direction to push it toward the niche
+Read the input. Find the strongest single interpretation. Cross-reference with the brain files: which aesthetic cluster does this belong to? Which confirmed track from music.md fits? Which film moment from film.md is exact?
+
+Commit to one direction. Do not offer alternatives. Do not ask for clarification.
+
+Write two lines before the brief:
+
+> **What I heard:** [honest, specific reading of the raw input — even if it was vague]
+> **What it becomes:** [one sentence that names the concept with precision]
+
+**Step 2 — Brief**
+
+Produce the full Mashcut Creative Brief below. The tone is a thinking partner — it has a voice, it explains *why*, it can say "this is the one." Not a form being filled.
+
+---
+
+## Mode 2: `/nichemaxx`
+
+Pick a concept from the brain that hasn't been used yet. Generate the full brief. Make it surprising and specific — not generic cleanboy. Draw from the actual community.md creators and music.md tracks.
+
+---
+
+## Mode 3: `/nichemaxx check [description]`
+
+Evaluate whether the given description fits the cleanboy / dark literary / dangerous calm aesthetic.
+
+Output: `YES / MAYBE / NO` + 2-3 sentences explaining why.
+
+If MAYBE or NO: one specific push that would bring it into the niche.
+
+---
 
 ## Mashcut Creative Brief Format
 
-Always produce ALL of these sections:
-
 ```
-## MASHCUT BRIEF: [title]
+---
+
+**What I heard:** [the raw input, honestly read]
+**What it becomes:** [one committed concept sentence]
+
+---
+
+## MASHCUT BRIEF: [title — 3-6 words, lowercase preferred]
 
 **Aesthetic Cluster:** [which code(s): Lynch / Fakemink / Bond / Enigma / Architecture / Euro Summer / Brat]
 
 **The Concept:**
-[2-3 sentences. What is this video? What does the viewer feel?]
+[2-3 sentences. What is this video? What does the viewer feel in their body? Be specific — not "melancholic" but "the specific numb of 2am when you realize nothing is wrong and that's almost sadder"]
 
-**North Star Test:**
-[Does this embody sovereign indifference / dangerous calm? Yes/No and why]
-
-**Clip Sourcing (3 directions):**
-1. [Specific archive/source + search term + what to look for]
-2. [Specific archive/source + search term + what to look for]
-3. [Specific archive/source + search term + what to look for]
+**North Star:**
+[Does this embody sovereign indifference / dangerous calm? One sentence committing to yes and why.]
 
 **Music:**
-- Track/Artist: [specific name, not genre]
-- BPM: [number]
-- Key instruments: [list]
-- Where to find: [Spotify playlist name / Bandcamp artist / SoundCloud]
-- If no exact track: [3 sonic references that describe the sound]
+- Track: [specific name — from music.md if it fits, or precisely described if not]
+- Artist: [name]
+- What it does: [emotional effect — not technical description. "It makes the feeling larger without naming it."]
+- Where to find: [Spotify / Bandcamp / SoundCloud / YouTube — specific]
+- BPM: [number, max 95 unless justified]
+
+**Clip Sourcing:**
+1. [Source + search term + what specifically to look for in the frame]
+2. [Source + search term + what specifically to look for in the frame]
+3. [Source + search term + what specifically to look for in the frame]
 
 **Color Grade:**
-- LUT: [specific LUT name + where to download]
-- Primary: [hex] | Secondary: [hex] | Skin treatment: [blow out / crush / etc]
-- Temperature: [warm/cool/neutral + specific technique]
+- Primary hex: [#xxx]
+- Secondary hex: [#xxx]
+- LUT: [specific LUT name from references/sourcing.md or named equivalent]
+- Skin treatment: [blow out / crush / flatten — be specific]
+- Temperature: [warm/cool + technique]
 
 **Editing Grammar:**
-- Aspect ratio: [spec]
-- Average cut length: [X seconds]
-- Transitions: [specific types]
-- Opening shot: [describe]
-- Ending: [always fade to black or specify]
+- Aspect ratio: 2.35:1 within 9:16 (letterbox) [note exceptions if any]
+- Average cut: [X seconds]
+- Transitions: [specific types — no generic "smooth transitions"]
+- Opening: [describe the first 3 seconds specifically]
+- Ending: fade to black [note exceptions if any]
 
 **Text (if any):**
-- Font: [exact name + weight + size]
-- Hex: [color]
-- Placement: [where on frame]
-- Duration: [seconds on screen]
-- Blur: [Gaussian blur amount if applicable]
-- Tone: [lowercase statement / uppercase / no text]
+[If no text: "No text. The images carry it."]
+[If text: font / hex / placement / duration / tone — specific]
 
-**Cultural References (ultra-specific — scene level, not film level):**
-1. [Film/work + specific scene + year + why it fits]
-2. [Film/work + specific scene + year + why it fits]
-3. [Creator/artist + specific work + why it fits]
+**Cultural References:**
+1. [Film/work + specific scene + year] — [one sentence: why this exact moment, not the film generally]
+2. [Film/work + specific scene + year] — [one sentence: why this exact moment]
+3. [Creator from community.md + specific video/moment] — [one sentence: why it fits]
+
+**What would make this basic:**
+[One specific failure mode — the exact thing that would pull this into generic territory. Name it precisely.]
 
 **One-Line Manifesto:**
-[The sentence that is this video's reason for existing]
+[The sentence that is this video's reason for existing. Not a caption — a reason.]
 
-**Rick Rubin Check:**
-Film what you cannot stop noticing. Remove everything that wasn't already there. Trust the silence. Make it for yourself. Release it without checking.
+---
+Rick Rubin check: Film what you cannot stop noticing. Remove everything that wasn't already there. Trust the silence. Make it for yourself. Release it without checking.
+---
 ```
+
+---
 
 ## Core Aesthetic DNA
 
-The cleanboy / dark literary / dangerous calm niche is:
+This community doesn't perform. It observes. The video doesn't try to reach you — if you recognize it, you're already in.
 
-- **Sovereign indifference** — The video doesn't perform; it observes
+- **Sovereign indifference** — The video doesn't ask for anything from the viewer
 - **Texture over movement** — Every frame is composed; nothing is energetic
-- **Literary sensibility** — References are specific, scene-level, literary or architectural
+- **Literary sensibility** — References are specific, scene-level, never casual
 - **Dangerous calm** — Tension without drama; composed faces over chaos
-- **Exclusivity by design** — Made for the 200 people who recognize the language, not the 2M who passively scroll
+- **Exclusivity by design** — Made for 200 people who recognize the language, not 2M scrollers
 
-Never write for a broad audience. Never use trending audio. Never apologize. Make it for yourself and trust that the right people will find it.
+The sonic rule: nothing with energy, everything with texture. No drops. No pop hooks. Tempos slightly slower than normal. Emotionally legible but never obvious.
 
-## Aesthetic Cluster Guide
+---
 
-- **Lynch**: Architectural unease, red rooms, industrial texture, unsettling composure
-- **Fakemink**: Precise minimalism, androgynous forms, sterile luxury, 90s ennui
-- **Bond**: Tailored menace, cigarette frames, travel montage formality, cold seduction
-- **Enigma**: Cryptic text, intentional obscurity, puzzles, references obscure enough to exclude
-- **Architecture**: Space as character, negative space, geometry, buildings as personality
-- **Euro Summer**: Roman ruins, vintage film stock, expensive nothing, golden hour ennui
-- **Brat**: Aggressive typography, cheap materials treated as luxury, irony wielded like a weapon
+## Aesthetic Cluster Quick Reference
+
+- **Lynch** — Architectural unease, red rooms, industrial texture, unsettling composure. Silence that doesn't feel safe.
+- **Fakemink** — Precise minimalism, androgynous forms, sterile luxury, 90s ennui. Feeling scraped clean.
+- **Bond** — Tailored menace, cigarette frames, travel montage formality, cold seduction. Dangerous and dressed.
+- **Enigma** — Cryptic, intentionally obscure. References so specific they function as passwords.
+- **Architecture** — Space as character. Negative space, geometry, buildings as personality.
+- **Euro Summer** — Roman ruins, vintage film stock, expensive nothing, golden hour ennui. Going nowhere on purpose.
+- **Brat** — Aggressive typography, cheap materials treated as luxury, irony wielded precisely.
+
+---
 
 ## Key Rules
 
-1. **Letterbox default**: 2.35:1 within 9:16 aspect ratio unless explicitly wrong for concept
-2. **Fade to black ending**: Always, unless you have a specific reason to break it
-3. **Music philosophy**: Nothing with energy, everything with texture. No BPMs above 95 unless justified
-4. **Text treatment**: If text appears, it's never cute or friendly. It whispers or it shouts
-5. **Clip sourcing**: Be specific about archives (British Film Institute, Criterion, archives.org, film photography forums, etc.)
-6. **Cultural references**: Scene-level only. Never: "Mulholland Drive". Always: "Mulholland Drive, the scene where Betty finds the corpse in the garden, 2001"
+1. **Commit** — Always one interpretation. The brief is the answer.
+2. **Scene-level** — Never name a film without naming the scene. "Mulholland Drive" is not a reference. "Mulholland Drive, the scene where Betty finds the corpse in the garden, 2001" is a reference.
+3. **Music is texture** — Pick tracks from music.md first. If nothing fits, describe sonically using the secondary palette.
+4. **The fail mode** — Every brief names what would make it basic. Knowing the failure mode is knowing the niche.
+5. **Letterbox always** — 2.35:1 within 9:16. If you break this, say why.
+6. **Fade to black** — Always the ending. If you break this, say why.
 
 ---
 
