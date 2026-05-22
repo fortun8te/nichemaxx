@@ -4,9 +4,11 @@
 
 ## DEMOGRAPHICS
 
-**Age:** 16–22
-**Location:** Europe-coded (French, Belgian, Dutch primary)
-**Gender:** Male (though aesthetic permits androgynous/non-binary interpretation)
+**Age:** 16–22 (core: 17)
+**Location:** Europe-coded (French, Belgian, Dutch dominant) + some LA adjacency (Chrome Hearts cluster)
+**Gender:** Male, majority — significant queer coding
+**Class Signal:** Aspiring upper-middle. Not actually rich — deeply fluent in the visual language of wealth. There's a difference.
+**Device:** iPhone, probably older model. Edits in CapCut or occasionally After Effects.
 **Cultural Coding:** European-specific references, not North American mainstream
 
 ---
@@ -57,6 +59,22 @@ The cleanboy is not a style. It's a constellation of signals that together add u
 - Fast cuts, energy, easy moods
 - Text on screen (except when it's wrong)
 - Fresh production (everything must look found, archival, suspended in time)
+
+## WHAT HE FEARS
+
+- Being basic
+- Being try-hard
+- Being too online (he is very online)
+- Being legible to everyone — the worst outcome is content that anyone can understand
+
+## VULNERABILITY LAYER (new — from full 36 video analysis)
+
+The cleanboy aesthetic coexists with a personal/emotional cluster that didn't surface in the first 7 videos. These creators sit inside the same community:
+- Chronic illness content: *"i crave normal things with an intensity healthy people will never understand"*
+- Diary energy: autumn, gentle reflection, "the older i'm getting the more in love i am"
+- Introversion essays: selfie + periwinkle text, confessional framing
+
+Vulnerability is permitted here IF it's aesthetically framed. Raw confession without aesthetic control reads as content, not art. The form has to hold the feeling.
 
 ---
 
