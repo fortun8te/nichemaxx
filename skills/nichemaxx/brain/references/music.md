@@ -91,3 +91,63 @@ Gregorian chant, ambient new age, deep bass, 1990. Sensuality + spirituality. Us
 - SoundCloud: mikal, emerging nu-jerk / dissociative trap
 
 **For "original sound" videos:** Shazam individual clips directly. Most of the best tracks in this community are unidentified.
+
+---
+
+# DEEPER CUTS — the adjacent scenes
+### Where the taste actually pulls from. Each: artist — track — what it does — where to find. The scene-map at the end is the real flex.
+
+---
+
+## Nu-jerk / dissociative (Nettspend's world)
+The nucleus is the **1c34** collective (xaviersobased, founded 2021) — witch-house + tread + jerk slowed into fog. Lean to the dissociative end, not the agro end. Verify each against the no-energy rule; much of the scene detonates.
+- **xaviersobased — "stuck in my ways"** (2024) — pitched, blown-out, emotionally vacant in a way that reads as longing not rage. *SoundCloud/Spotify*
+- **Yhapojj — "Holy Water"** (2024) — slurred, melodic, half-asleep over washed-out synths. The "processing solitude" end of nu-jerk. *SoundCloud/Spotify*
+- **Feng — "When I Was Down"** (2024) — early-2010s cloud-rap melancholy reborn; raps over his own cloudy beats. *SoundCloud/Spotify*
+
+## Sincere vaporwave (the 100% Electronica roster — the label IS the signal)
+- **death's dynamic shroud — "Judgment Bolt"** (2021, *Darklife*) — plunderphonic euphoria-melancholy; memory degrading. The crown jewel. *Bandcamp: 100% Electronica*
+- **Windows 96 — "Enchanted Instrumental"** (2017) — pure nostalgic dread; a school you attended in a dream. *Bandcamp/Spotify*
+- **Equip — "Sword Saint"** (2017) — longing rendered as an RPG cutscene. *Bandcamp*
+- **Telepath テレパシー能力者 — "anima"** — slowed dreampunk; the "I went past the label" pick. *Bandcamp/YouTube*
+
+## Cloud rap / ambient-rap (fakemink's lane — Drain Gang is the root)
+- **fakemink — "Easter Pink"** (Jan 2025) — bloghouse + cloud rap, pitched vocals over crushed 808s. The reference point itself. *SoundCloud/Spotify*
+- **Bladee — "Be Nice 2 Me"** (2018, *Red Light*) — Drain Gang godfather; auto-tuned angelic dissociation. **The literary-sad-boy ur-text the whole underground descends from.** *Spotify*
+- **Ecco2k — "Peroxide"** (2019, *E*) — ethereal, androgynous, glassy; queer longing as cloud-rap art-pop. Near-perfect for the avatar. *Spotify*
+- **Yung Lean — "Hurt"** (2015) — the melancholic cloud-rap canon entry; sad-boy nostalgia in amber. *Spotify*
+
+## Ambient / drone / tape-decay (beyond Grouper & Basinski)
+The labels are **3XL / West Mineral Ltd. / Motion Ward** — that's the whole deep-ambient scene to mine.
+- **Stars of the Lid — "Don't Bother They're Here"** (2007) — glacial orchestral drone, the genre ceiling. Pure dangerous-calm. *Bandcamp/Spotify*
+- **Tim Hecker — "Black Refraction"** (2011, *Ravedeath, 1972*) — pipe-organ digitally decayed; sacred and corroded. *Bandcamp/Spotify*
+- **GAS (Wolfgang Voigt) — "Pop 1"** (2000) — forest-techno: a pulse buried under fog. Texture with a heartbeat, no energy. *Spotify*
+- **Ulla — *Tumbling Towards A Wall*** (2020) — the current underground touchstone; aquatic, beatless, intimate. *Bandcamp*
+- **Pontiac Streator — *Sone Glo*** (2022) — dubby, half-dissolved; the connoisseur's "I read the liner notes" pick. *Bandcamp: West Mineral*
+- **claire rousay — "it could be different"** (2024) — "emo-ambient": field recordings + voicemails + ache. *Bandcamp/Spotify*
+
+## Trip-hop / downtempo / sophisticated soul
+- **Tirzah — "he's the one"** (2023, *trip9love...???*, prod. Mica Levi) — looped distorted piano + romantic toplines; lo-fi club melancholy. **The most current, most correct trip-hop pick** — Tirzah + Mica Levi is the living axis. *Bandcamp/Spotify*
+- **Massive Attack — "Weather Storm"** (1994, deep cut) — instrumental, narcotic, slow. Avoids the obvious "Teardrop." *Spotify*
+- **Portishead — "Roads"** (1994) — the dangerous-calm one, not "Glory Box." *Spotify*
+- **Mount Kimbie — "Before I Move Off"** (2010) — post-dubstep texture-craft; cracked, organic, never builds. *Bandcamp/Spotify*
+- **Sampha — "(No One Knows Me) Like the Piano"** (2017) — soul-adjacent grief; piano and breath. *Spotify*
+
+## European melancholy axis
+- **The Blue Nile — "From a Late Night Train"** (1989, *Hats*) — Glasgow nocturne; **the rarest flex, the most "dangerous calm" record ever made.** *Spotify*
+- **Mark Kozelek / Sun Kil Moon — "Carry Me Ohio"** (2003) — murmured, literary, slow-rolling grief-folk. The textual spine of the whole aesthetic. *Spotify*
+- **Slowdive — "Dagger"** (1993, *Souvlaki* closer) — stripped, fragile; European longing distilled. *Spotify*
+- **Cocteau Twins — "Cherry-coloured Funk"** (1990) — wordless emotional legibility; the ur-source for reverb-longing. *Spotify*
+- **Air — "Ce Matin Là"** (1998) — French-touch melancholy, sun through curtains. *Spotify*
+- **Jóhann Jóhannsson — "Flight from the City"** (2016, *Orphée*) — Icelandic modern-classical, CMBYN-score adjacent. *Spotify*
+- **Hania Rani — "Eden"** (2020, *Home*) — Polish piano-and-voice ambient; intimate, glassy, European. *Gondwana/Bandcamp*
+
+---
+
+## SCENE-MAP CHEAT-SHEET — signals "I went deeper than a playlist"
+- **Nu-jerk** → the collective is **1c34** (xaviersobased); deep end = Yhapojj, Feng.
+- **Sincere vapor** → the label is **100% Electronica**; deepest pick = death's dynamic shroud, then Telepath off-label.
+- **Cloud rap roots** → **Drain Gang** (Bladee, Ecco2k) is the literary-sad-boy origin under fakemink.
+- **Deep ambient** → the labels are **3XL / West Mineral Ltd. / Motion Ward** (Ulla, Pontiac Streator).
+- **Modern trip-hop** → **Tirzah + Mica Levi** is the living axis.
+- **Euro melancholy** → **The Blue Nile** is the rarest flex; Kozelek the literary spine.

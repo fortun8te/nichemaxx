@@ -346,3 +346,68 @@ Tarkovsky is reference for how to let a shot breathe. He proves you can hold a s
 - Screenshot key film moments and use as color reference, not as source footage
 - Use the Wayback Machine to find old film stills, reviews, cinematography archives
 - Search "1960s luxury" / "1970s city" / "1980s brutalism" on archival sites for matching era footage
+
+---
+
+# DEEPER CUTS — scene-level, European arthouse
+### The references that signal you went past the canon. Always the scene, never the film.
+
+---
+
+## I. The body as classical statue (longing vs. marble)
+
+**Death in Venice — Visconti, 1971.** Final beach shot: Tadzio wades into the silver Adriatic, turns, raises one arm toward the horizon as Aschenbach dies in his deck chair to Mahler's Adagietto. The unreachable boy as living statue; desire that kills without a touch. *Criterion / search "Death in Venice ending Tadzio beach Mahler."*
+
+**Teorema — Pasolini, 1968.** Terence Stamp's Visitor reading Rimbaud in the garden, then the wordless seduction of the son — under 1,000 words of dialogue in the whole film. The beautiful stranger as universal object of longing, sovereign and affectless. *Criterion Channel.*
+
+**The Conformist — Bertolucci, 1970.** The forest assassination in the snow: Trintignant frozen in the black car, doing nothing, while Anna runs and pounds the glass and is murdered in the white woods. **The single best "sovereign indifference refusing its own feeling" shot in cinema.** Storaro's blues and shadows ARE the cleanboy palette. *Kino Lorber / MUBI.*
+
+**L'Eclisse — Antonioni, 1962.** The seven-minute final montage: the lovers' empty meeting corner at dusk, water leaking from a barrel, a streetlamp blooming into a white sun — the people simply never arrive. Going nowhere on purpose, as architecture. *Criterion.*
+
+## II. Water, night, exile (the queer cuts)
+
+**Happy Together — Wong Kar-wai, 1997.** The Iguazú Falls bird's-eye torrent; earlier, Tony Leung weeping alone into a tape recorder, lit tungsten-amber by Christopher Doyle. The waterfall is the harmony two men reach for and never share. *Criterion.*
+
+**Stranger by the Lake — Guiraudie, 2013.** The single fixed wide of the lake at dusk after the drowning — still water holding a murder, the cruising beach emptying, the protagonist staying. Desire and death on one shoreline, merciless calm. *Strand / MUBI.*
+
+**Beau Travail — Claire Denis, 1999.** The final solo dance to Corona's "Rhythm of the Night," and the legionnaires' shirtless drills against the Djibouti salt flats. **The male body as both erotic spectacle and military discipline, on screen, unresolved by design** — sits exactly on the desire/power fault line. *Criterion.*
+
+**The Intruder (L'Intrus) — Claire Denis, 2004.** Trébor swimming alone in the cold French lake, watched from the trees, then clutching his chest — tight on his face, then his hands in the dirt at the water's edge. The aging-but-sovereign body; water as pleasure and the first sign of mortality. *MUBI.*
+
+**Cold War — Pawlikowski, 2018.** The final bench: after the pills, Zula takes Wiktor's hand — "Let's go to the other side. The view will be better there" — they walk out of frame, wind moves the wheat. The most restrained suicide in cinema; monochrome, Academy-ratio, fade to wind. *search "Cold War 2018 ending bench."*
+
+## III. Restraint as discipline (the still men)
+
+**Le Cercle Rouge — Melville, 1970.** The wordless heist: 20+ minutes, Delon and the marksman in the empty vault, no score, only breath and the click of a single bullet. The deeper Melville beyond Le Samouraï — competence as eroticism. *Criterion.*
+
+**Pickpocket — Bresson, 1959.** The Gare de Lyon ballet: hands passing wallets in choreographed silence, faces blank, theft filmed like a sacrament. Bressonian "models," not actors — affect drained until pure form remains. The original sovereign indifference. *Criterion Channel.*
+
+**Au Hasard Balthazar — Bresson, 1966.** The death of the donkey: shot, he walks into a flock of sheep on a green hillside, bells ringing, lies down and dies as the camera simply watches. Feeling held so far back it detonates. The dark-literary patron saint of restraint. *Criterion.*
+
+**Only God Forgives — Refn, 2013.** Julian (Gosling speaks 17 lines in the whole film) motionless in the red-lit Bangkok club, then extending his open hands to be cut. Drive's silent, sicker twin — neon, Oedipal calm, the body offered up, Cliff Martinez score. *widely streaming.*
+
+## IV. Decadence, money, the gap between who he is and who he's becoming
+
+**The Great Beauty — Sorrentino, 2013.** Not the party — the dawn after: Jep walking the empty Roman rooftop terrace alone at first light, the conga line dissolved, "the most beautiful train in Rome… because it goes nowhere." Sovereign indifference as a confession of emptiness. The 17-year-old's fear of becoming this man, made gorgeous. *Criterion.*
+
+**The Leopard (Il Gattopardo) — Visconti, 1963.** The 45-minute closing ball: Lancaster's Prince alone in the mirrored side-room, regarding a painting of a dying man while the waltz plays on without him. Aristocratic melancholy; the sovereign who knows his world is ending and stays composed. *Criterion.*
+
+**Youth — Sorrentino, 2015.** The Alpine spa: Caine conducting cow-bells and birdsong in the meadow; the slow-motion pool of aging bodies and one impossibly beautiful young one. Youth and decay in the same frame. *streaming / rental.*
+
+## V. The German / Nordic chill
+
+**Querelle — Fassbinder, 1982.** Brad Davis moving through the orange sodium-lit phallic-architecture port of Brest — entirely a stylized stage-set of male desire, no naturalism. The body as sailor-icon and marble at once; Fassbinder's last film. *MUBI / Criterion.*
+
+**The American Friend — Wenders, 1977.** Bruno Ganz and Dennis Hopper's Ripley in the train-corridor murder — fumbling, quiet, two solitary men in a moving carriage at night. Highsmith chill, Robby Müller's cold light, transit as existential space. *Criterion.*
+
+**A Short Film About Love (Dekalog VI) — Kieślowski, 1988.** Tomek watching Magda through the telescope across the night courtyard, then breaking down. Voyeurism as devotion; love safer at a distance. The boy who feels everything and shows nothing. *Criterion (Dekalog).*
+
+## VI. The drift / Mediterranean ennui
+
+**La Piscine (A Bigger Splash) — Deray, 1969.** Alain Delon and Romy Schneider by the Mediterranean pool — the long, sun-drugged, suspicious idyll where nothing happens and everything threatens to. **The source-text of Mediterranean sovereign ennui — use this, NOT Guadagnino's 2015 remake** (the remake reads American-celebrity-coded; the original is pure Delon stillness). *BFI restoration; often titled La Piscine.*
+
+**Tale of Tales — Garrone, 2015.** The free-diver descending into the black sea to harvest the heart of the sea-monster — wordless, blue-black, mythic. Water as the unconscious; fairy-tale logic with no whimsy, only dread and beauty. *Shudder / rental.*
+
+---
+
+*Sourcing: Criterion Channel and MUBI carry most of these. For the hard cuts (Querelle, Tale of Tales, La Piscine), search the exact scene names on YouTube for clips, archive.org for full files. Always the letterboxed restoration, never a cropped upload.*

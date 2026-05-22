@@ -640,3 +640,27 @@ The @kanetheicon video is the accidental key. The most stripped-back video in th
 ---
 
 *Synthesized from: 36 downloaded TikTok videos. All videos frame-extracted and visually analyzed directly. Audio confirmed from .info.json metadata. No fabrication.*
+
+---
+
+# THE SCENE — where this sits in the wider field
+### Researched against documented sources. Confidence flagged. This locates the niche; it doesn't replace the frame-verified read above.
+
+**"Cleanboy" is documented — but only the surface.** The named TikTok trend (#cleanboy, the male "clean girl") is grooming/skincare/old-money minimalism, circa 2022–23. **The dark-literary / dangerous-calm arthouse-edit variant this brain describes is NOT named in journalism** — it's in-scene vernacular, a vernacular evolution among edit-makers. Meaning: this niche is genuinely pre-documentation. Treat "dark literary cleanboy" as an emergent sensibility, not a public label. That's part of why it works.
+
+**The lineage:** this taste is the *refined, de-cringed, European descendant of "sigma edits"* — same technical grammar (slow-mo, phonk-adjacent pacing, Patrick Bateman / Thomas Shelby "lone wolf" mood) but higher taste, no text, arthouse sources. Its other parent is **dark academia** (documented as a resurgent full movement in 2025) — this is the colder, queerer cousin.
+
+**The @vrillence fault line, with the literature behind it.** The "Aryan Classic" / "Save Europa" edit scene is heavily documented: emerged Feb 2023, Arno Breker sculptures + #aryanclassic, flagged by GPAHE and GNET as a neo-Nazi vector. The queer-longing-vs-fascist-statuary tension this brain keeps surfacing is real and has critical literature: **Susan Sontag's "Fascinating Fascism" (1974)**, the Boston Review "#Milosexual" essay, Paste on *The Damned*. Fascist aesthetics eroticize the disciplined male body while being hostile to actual gay identity — the same statue-fade visual grammar reads as both queer desire and fascist icon, and **the edit form lets the two share a frame without resolving.** The ambiguity is structural — load-bearing for both reach and deniability. Name it; never endorse it.
+
+**Adjacent micro-genres and how much they overlap:**
+- *Sigma edits* — HIGH formally (the technical parent), LOW on taste. This niche is the de-cringed version.
+- *Dark academia* — HIGH. The "dark literary" core, but warmer/more scholarly; this is colder.
+- *Opium / "Vamp"* (Playboi Carti) — MODERATE. Shares the cold anti-mainstream posture but louder, US-coded, hip-hop-rooted.
+- *Quiet luxury* — LOW lineage overlap, but the "Succession"-cold restraint rhymes tonally.
+- *Eurosummer / Weeknd-core* — thin/blog-tier documentation; tonal cousins at best.
+
+**The mechanics:** CapCut (default) → Alight Motion (the keyframe/velocity workhorse) → After Effects (advanced). #fyp and #edit are reach-bait; niche tags and **#targetaudience are in-group sorting signals** — the edit literally addresses "not everyone," and that exclusion is the point. IYKYK is the shibboleth (cf. the fakemink/Lynch-grave password). Clips are scraped from films, fashion B-roll, and taste-signaling music; #letterboxd is an adjacent surface.
+
+**Where it's going (2025–26):** microtrend fatigue is real — Gen-Z is shifting toward durable, identity-driven aesthetics over disposable "-cores," which favors a slow taste-coded scene like this. And the **"quiet/cinematic edit" is mainstreaming in 2026** (slow, letterboxed, ambient-scored, low-text, French-New-Wave serif cues) — the mass market is catching up to the form this niche pioneered. Directional read: expect the scene to push *further* into illegibility (less text, obscurer sources) to keep in-group distinction, and the queer/edgepilled fault line to stay unresolved because the ambiguity is the engine.
+
+*Scene research: documented sources (Know Your Meme, GPAHE, GNET, Boston Review, Wikipedia, Business of Fashion, Later). Named creator handles live on-platform and aren't in secondary literature — the frame-verified read above is the primary source for them.*
