@@ -1,6 +1,6 @@
 # Nichemaxx
 
-The maintained home is [Studio Skills](https://github.com/fortun8te/studio-skills), alongside Critic and Next Feature. This repository carries the current standalone Nichemaxx skill for existing installs.
+The maintained home is [Performative Skills](https://github.com/fortun8te/performative-skills), alongside Critic and Next Feature. This repository carries the current standalone Nichemaxx skill for existing installs.
 
 Find the precise creative reference you would not quite reach alone: a specific work, a useful detail, and why it fits the current request. Default one reference in 60–140 words, with adjacent discoveries rather than a fixed aesthetic.
 
